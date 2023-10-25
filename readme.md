@@ -1,0 +1,1 @@
+This contains the difference between the Document and Window object for roadmap session Day 2 task.
